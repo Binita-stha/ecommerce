@@ -1,0 +1,137 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
+  <diagram name="Page-1" id="AyjYVEUG-7r38SGrU3C5">
+    <mxGraphModel dx="1500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-13" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;User&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;-&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;userId : String&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -user_name : String&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -dob :date&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -age :int&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -address: String&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -phoneNumber:List&amp;lt;string&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +getUserId():String&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +getUsername():String&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +calculateAge():int&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +addphoneNumber(phone:string):void&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify; margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-17" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Admin&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -adminId:string&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -name:string&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -email:string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -yearofservices:int&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +getAdminId():String&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +getName():String&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +Calculateyersofservices():int&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="400" y="70" width="230" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="400" y="90" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-21" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Product&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; -productId:string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; -name:string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; -description:string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; -price:int&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; -categories:list&amp;lt;string&amp;gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; +getProductionId():string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; +getprice():int&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; +addCategory(category:string):void&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="740" y="70" width="230" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="740" y="150" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="740" y="90" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-24" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;order&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -oderId:string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -ordrDate:int&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -status:string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -shippingAddress:string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; -totalAmount:dounle&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +getOrderId():string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +getStatus():string&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; +calculateTotalAmount():double&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="215" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-27" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="38.75" y="550" width="217.5" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-28" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;payment&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -paymentId:string&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -amount:int&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -paymentMethod:string&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; -paymentDate:date&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; +getpaymentId():string&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; +getAmount():int&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp; +setPaymentMethod(method:string)void&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="220" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-29" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="440" y="536" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-32" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.465;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.381;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CpdFMOi0TjaSbJOE9T3H-13" target="CpdFMOi0TjaSbJOE9T3H-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="370" as="sourcePoint" />
+            <mxPoint x="122" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-46" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="125" y="288" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;0..*&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="405" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;0..*&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-60" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;class diagram of online shopping&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="255" y="680" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-61" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;0..*&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="130" y="408" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-62" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;0..*&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="810" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-63" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;0..*&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-64" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;0..*&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="710" y="230" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-67" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=-0.018;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="CpdFMOi0TjaSbJOE9T3H-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="256.25" y="587.5" as="sourcePoint" />
+            <mxPoint x="280" y="588" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-68" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="256.25" y="590" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-70" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="255" y="449" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-72" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="230" as="sourcePoint" />
+            <mxPoint x="740" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-73" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="CpdFMOi0TjaSbJOE9T3H-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="620" as="sourcePoint" />
+            <mxPoint x="800" y="498" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="640" />
+              <mxPoint x="800" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-74" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;contains&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="790" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-75" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;places&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="70" y="336" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-77" value="" style="endArrow=none;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.995;exitY=0.051;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CpdFMOi0TjaSbJOE9T3H-24" target="CpdFMOi0TjaSbJOE9T3H-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="440" as="sourcePoint" />
+            <mxPoint x="490" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-78" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;oversees&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="320" y="358" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-79" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="405" y="598" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-80" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;paid&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CpdFMOi0TjaSbJOE9T3H-83" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;manages&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
